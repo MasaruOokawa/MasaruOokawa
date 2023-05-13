@@ -1,4 +1,3 @@
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=MasaruOokawa)
 ![](https://komarev.com/ghpvc/?username=MasaruOokawa&color=blue)
  <p>
   <img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MasaruOokawa&theme=transparent" />
